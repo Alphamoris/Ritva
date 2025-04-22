@@ -28,7 +28,7 @@ A responsive React application that fetches and displays user data from an API w
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/user-directory.git
+git clone https://github.com/Alphamoris/Ritva.git
 cd user-directory
 ```
 
